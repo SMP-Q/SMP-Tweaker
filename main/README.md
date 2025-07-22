@@ -10,8 +10,7 @@ SMP-TWEAKS is a powerful Windows tweaking and debloat tool that helps you optimi
 - Many more optimizations for CPU, GPU, RAM, network, power, and more
 
 ## Versions
-- **SMP-TWEAKS-Dev.py**: Development file for private use only by the author (not for public use). Here, new features and changes are tested.
-- **SMP-TWEAKS-Main.py**: Main version for productive use. Changes from the Dev version are merged here via "push update".
+- **SMP-TWEAKS-Main.py v1.1**: Main version for productive use. Changes from the Dev version are merged here via "push update".
 
 ## Usage
 1. Make sure Python 3 is installed.
